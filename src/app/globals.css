@@ -8,5 +8,4 @@
 
 body {
   background-color: rgb(var(--background-rgb));
-  min-height: 200vh;
 }
